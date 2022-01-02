@@ -1,2 +1,2 @@
-[lfs]
-url = "http://localhost:9999/git-lfs/lfs.recordings.git"
+[remote "origin"]
+	lfsurl = https://kvx9k3g13i.execute-api.us-east-2.amazonaws.com/common
